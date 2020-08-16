@@ -6,3 +6,8 @@
 https://kimikinjyo.github.io/movie-sindan/
 ## GitHub Pages参考サイト
 https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
+## 参考
+chrome://dino/
+## ブレイクポイント
+PC　〜769px
+SP　
