@@ -10,4 +10,4 @@ https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
 chrome://dino/
 ## ブレイクポイント
 PC　〜769px
-SP　
+SP　768px~
